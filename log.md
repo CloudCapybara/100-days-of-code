@@ -7,4 +7,4 @@
 **Thoughts**  I'll get through this course and start working on a project right after. Maybe something in Twilio Flex. 
 
 **Link(s) to work**
-1. [Stopped here:(https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/5102530?start=15#overview)
+1. [Stopped here:](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/5102530?start=15#overview)
